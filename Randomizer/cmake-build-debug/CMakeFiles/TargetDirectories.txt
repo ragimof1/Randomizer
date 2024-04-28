@@ -1,0 +1,3 @@
+/Users/ilkinrahimov/CLionProjects/Randomizer/cmake-build-debug/CMakeFiles/Randomizer.dir
+/Users/ilkinrahimov/CLionProjects/Randomizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilkinrahimov/CLionProjects/Randomizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
